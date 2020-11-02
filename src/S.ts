@@ -43,3 +43,6 @@ export class FunctionalCalculator {
     throw new Error('Class doesn\'t support substraction operation!');
   }
 }
+
+const initedCalculator = new CalculatorInit(['addition', 'substraction']);
+const functionalizedCalculator = new FunctionalCalculator(initedCalculator);
