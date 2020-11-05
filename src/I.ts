@@ -43,5 +43,5 @@ export class Fish implements IFish {
 const cat = new Cat('Garfield');
 const fish = new Fish('Yaaaz');
 
-console.log(cat.walk());
-console.log(fish.swim());
+// console.log(cat.walk());
+// console.log(fish.swim());
