@@ -44,5 +44,5 @@ export class FunctionalCalculator {
   }
 }
 
-const initedCalculator = new CalculatorInit(['addition', 'substraction']);
-const functionalizedCalculator = new FunctionalCalculator(initedCalculator);
+// const initedCalculator = new CalculatorInit(['addition', 'substraction']);
+// const functionalizedCalculator = new FunctionalCalculator(initedCalculator);

@@ -78,8 +78,8 @@ export class FilterOutput {
   }
 }
 
-const output = new FilterOutput([
-  new TextFilter('name'),
-  new NumberFilter('15 000'),
-]);
+// const output = new FilterOutput([
+//   new TextFilter('name'),
+//   new NumberFilter('15 000'),
+// ]);
 
